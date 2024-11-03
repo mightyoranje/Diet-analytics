@@ -1,0 +1,2 @@
+data/dataset.csv filter=lfs diff=lfs merge=lfs -text
+backend/checkpoints/iter_80000.pth filter=lfs diff=lfs merge=lfs -text

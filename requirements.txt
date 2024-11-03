@@ -1,0 +1,13 @@
+pandas
+streamlit
+streamlit-echarts
+altair==4.0
+fastapi
+uvicorn
+scikit-learn
+pandas
+pydantic==1.10.4
+matplotlib
+numpy
+mmcv
+mmsegmentation

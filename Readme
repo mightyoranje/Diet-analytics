@@ -1,0 +1,5 @@
+for backend:
+uvicorn main:app --reload                  
+
+for frontend:
+streamlit run Hello.py
