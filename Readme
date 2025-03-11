@@ -1,5 +1,5 @@
-for backend:
+cd backend
 uvicorn main:app --reload                  
 
-for frontend:
+cd frontend
 streamlit run Hello.py
